@@ -176,7 +176,7 @@ p {
   padding-bottom: 200px;
 
   color: #ffffff;
-  /* text-align: center; */
+  text-align: center;
 }
 
 .overlay {
@@ -224,9 +224,6 @@ p {
   margin-bottom: 0;
   border: none;
   cursor: pointer;
-
-  display: block;
-  justify-content: center;
 }
 
 .hero-button:hover,
